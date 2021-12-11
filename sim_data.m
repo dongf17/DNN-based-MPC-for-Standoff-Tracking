@@ -1,8 +1,7 @@
-% 载入神经网络
+% load the parameters for the DNN
 load ./full_primal
-% 电机参数
 
-% 时间系数
+% Iime interval
 Ts=0.1;
 
 
